@@ -38,7 +38,7 @@
   "dependencies": {},
   "devDependencies": {
     "browser-perf": "1.2.3",
-    "chromedriver": "2.19.0",
+    "chromedriver": "119.0.1",
     "commitplease": "2.0.0",
     "ejs-template": "0.1.0",
     "grunt": "0.4.5",
